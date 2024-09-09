@@ -38,7 +38,6 @@ print(s.lower())
 print(s.upper()) 
 print(s.find("like"))
 print(s.count("i"))
-print(s.replace("python","sql"))
 print(s[:-9])
 
   
