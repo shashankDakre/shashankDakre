@@ -40,5 +40,5 @@ print(s.find("like"))
 print(s.count("i"))
 print(s.replace("python","sql"))
 print(s[:-9])
-s="hello12"
+
   
