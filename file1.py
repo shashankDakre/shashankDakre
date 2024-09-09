@@ -38,6 +38,6 @@ print(s.lower())
 print(s.upper()) 
 print(s.find("like"))
 print(s.count("i"))
-print(s[:-9])
+
 
   
