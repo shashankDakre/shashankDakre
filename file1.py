@@ -1,7 +1,7 @@
 ############String#############
 print("Welcome Bro")
 a="shashank"
-# print(a[2])
+print(a[2])
 print(a[1:3])
 s="Certification"
 print(len(s))
@@ -16,7 +16,6 @@ print(s[5::3])
 print(s[::4])
 print(s[::-1])
 print(s[::-2])
-a=input("Enter any string=")
 print(a[::-1])
 print(len(a))
 print(a.split("?"))
@@ -29,14 +28,10 @@ print(s.count("s"))
 print(s.replace("s","v"))
 print(s.endswith("s"))
 ###wap to accept a string and display it with by good morning
-s=input("Enter a name = ")
-print ("good morning", s)
+print ("good morning")
 ### wap to accept a string having two space betw words & display by removing one space
-s=input("Enter a name = ")
-print (s.replace("  "," "))
 ###wap to accept string display in
 #reverse , display last char , no. of time "i" occured , in lower case , upper , capitalize , loc of like , replace python with sql
-s = input("Enter a string=")
 print(s[::-1])
 print(s.capitalize())
 print(s.lower())
