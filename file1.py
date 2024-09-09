@@ -35,7 +35,7 @@ print ("good morning", s)
 s=input("Enter a name = ")
 print (s.replace("  "," "))
 ###wap to accept string display in
-reverse , display last char , no. of time "i" occured , in lower case , upper , capitalize , loc of like , replace python with sql
+#reverse , display last char , no. of time "i" occured , in lower case , upper , capitalize , loc of like , replace python with sql
 s = input("Enter a string=")
 print(s[::-1])
 print(s.capitalize())
